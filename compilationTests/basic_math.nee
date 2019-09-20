@@ -1,0 +1,4 @@
+let a:number = 123
+const b:number = 55
+
+const c = ((a * b) - (a + b)) * 2

@@ -1,0 +1,11 @@
+let m: maybe boolean;
+
+if m != none {
+  return "m has no value"
+}
+
+m = false
+
+if m != none {
+  return "m has no value"
+}
